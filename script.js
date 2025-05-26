@@ -10,10 +10,11 @@ let lastElement = animals[animals.length - 1];
 console.log("First element is " + firstElement);
 console.log("Middle element is " + middleElement);
 console.log("Last element is " + lastElement);
-console.log();
+
 
 //STEP 3: Using Array Properties
 console.log("The number of elements is " + animals.length);
+console.log();
 
 //STEP 4: Array Methods (using push, shift and splice method)
 animals.push("fox");
