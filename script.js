@@ -1,5 +1,5 @@
 //STEP 1: Declaring Arrays (5 elements)
-let animals = ["dog", "cat", "elephant", "lion", "panther"];
+const animals = ["dog", "cat", "elephant", "lion", "panther"];
 console.log(animals);
 
 //STEP 2: Accessing Arrays
